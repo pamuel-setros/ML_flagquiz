@@ -1,0 +1,502 @@
+[
+  {
+    "state": "Wyoming",
+    "filename": "Wyoming.png",
+    "avg_rgb": [
+      0.3641362943364765,
+      0.2924710975720138,
+      0.47172849025822655
+    ],
+    "thumbnail": "thumbnails/Wyoming.png"
+  },
+  {
+    "state": "Arizona",
+    "filename": "Arizona.png",
+    "avg_rgb": [
+      0.4598303030244586,
+      0.280538266958938,
+      0.22770983828283312
+    ],
+    "thumbnail": "thumbnails/Arizona.png"
+  },
+  {
+    "state": "Oklahoma",
+    "filename": "Oklahoma.png",
+    "avg_rgb": [
+      0.08374749698561942,
+      0.46866067311885296,
+      0.7636284647378716
+    ],
+    "thumbnail": "thumbnails/Oklahoma.png"
+  },
+  {
+    "state": "Vermont",
+    "filename": "Vermont.png",
+    "avg_rgb": [
+      0.06498537245721257,
+      0.2375667944554786,
+      0.38910794442661273
+    ],
+    "thumbnail": "thumbnails/Vermont.png"
+  },
+  {
+    "state": "Rhode Island",
+    "filename": "Rhode_Island.png",
+    "avg_rgb": [
+      0.9852630846610223,
+      0.9687909603086317,
+      0.9056608881401556
+    ],
+    "thumbnail": "thumbnails/Rhode_Island.png"
+  },
+  {
+    "state": "Missouri",
+    "filename": "Missouri.png",
+    "avg_rgb": [
+      0.528186197532057,
+      0.3590194256596075,
+      0.48761807146619857
+    ],
+    "thumbnail": "thumbnails/Missouri.png"
+  },
+  {
+    "state": "Montana",
+    "filename": "Montana.png",
+    "avg_rgb": [
+      0.16750689226091467,
+      0.28570835418934837,
+      0.46460367592857316
+    ],
+    "thumbnail": "thumbnails/Montana.png"
+  },
+  {
+    "state": "Louisiana",
+    "filename": "Louisiana.png",
+    "avg_rgb": [
+      0.16786735362476068,
+      0.3767334251510638,
+      0.5462541219375898
+    ],
+    "thumbnail": "thumbnails/Louisiana.png"
+  },
+  {
+    "state": "Arkansas",
+    "filename": "Arkansas.png",
+    "avg_rgb": [
+      0.6814156396683504,
+      0.24222540406848203,
+      0.3783500245859783
+    ],
+    "thumbnail": "thumbnails/Arkansas.png"
+  },
+  {
+    "state": "New Mexico",
+    "filename": "New_Mexico.png",
+    "avg_rgb": [
+      0.9908115205496109,
+      0.7388179009898221,
+      0.004836161335871029
+    ],
+    "thumbnail": "thumbnails/New_Mexico.png"
+  },
+  {
+    "state": "Illinois",
+    "filename": "Illinois.png",
+    "avg_rgb": [
+      0.9351615079819559,
+      0.9202314410093818,
+      0.9023482283281465
+    ],
+    "thumbnail": "thumbnails/Illinois.png"
+  },
+  {
+    "state": "California",
+    "filename": "California.png",
+    "avg_rgb": [
+      0.8585509621268113,
+      0.7453601099765954,
+      0.7454810385473635
+    ],
+    "thumbnail": "thumbnails/California.png"
+  },
+  {
+    "state": "Ohio",
+    "filename": "Ohio.png",
+    "avg_rgb": [
+      0.4522515099790359,
+      0.28210123545940813,
+      0.37688659839180194
+    ],
+    "thumbnail": "thumbnails/Ohio.png"
+  },
+  {
+    "state": "Hawaii",
+    "filename": "Hawaii.png",
+    "avg_rgb": [
+      0.6607811722084433,
+      0.4001601499687785,
+      0.5192127377372737
+    ],
+    "thumbnail": "thumbnails/Hawaii.png"
+  },
+  {
+    "state": "Kentucky",
+    "filename": "Kentucky.png",
+    "avg_rgb": [
+      0.0798548893989478,
+      0.07906105624068152,
+      0.4221270823637926
+    ],
+    "thumbnail": "thumbnails/Kentucky.png"
+  },
+  {
+    "state": "Maine",
+    "filename": "Maine.png",
+    "avg_rgb": [
+      0.05065032508901258,
+      0.188931081550034,
+      0.4021637086757516
+    ],
+    "thumbnail": "thumbnails/Maine.png"
+  },
+  {
+    "state": "Nevada",
+    "filename": "Nevada.png",
+    "avg_rgb": [
+      0.02368215507744473,
+      0.2151122857633804,
+      0.6500633211103946
+    ],
+    "thumbnail": "thumbnails/Nevada.png"
+  },
+  {
+    "state": "Mississippi",
+    "filename": "Mississippi.png",
+    "avg_rgb": [
+      0.4339327806657751,
+      0.17509053333938687,
+      0.25887405717913686
+    ],
+    "thumbnail": "thumbnails/Mississippi.png"
+  },
+  {
+    "state": "Washington",
+    "filename": "Washington.png",
+    "avg_rgb": [
+      0.10580107491997634,
+      0.5295896079316328,
+      0.34586256826903244
+    ],
+    "thumbnail": "thumbnails/Washington.png"
+  },
+  {
+    "state": "Wisconsin",
+    "filename": "Wisconsin.png",
+    "avg_rgb": [
+      0.0975604244717737,
+      0.22722985275355362,
+      0.5222650698919247
+    ],
+    "thumbnail": "thumbnails/Wisconsin.png"
+  },
+  {
+    "state": "Nebraska",
+    "filename": "Nebraska.png",
+    "avg_rgb": [
+      0.12215631137431202,
+      0.24752591068435115,
+      0.48958992607735013
+    ],
+    "thumbnail": "thumbnails/Nebraska.png"
+  },
+  {
+    "state": "Kansas",
+    "filename": "Kansas.png",
+    "avg_rgb": [
+      0.0934071771013357,
+      0.21963257373740935,
+      0.3948008540984476
+    ],
+    "thumbnail": "thumbnails/Kansas.png"
+  },
+  {
+    "state": "South Carolina",
+    "filename": "South_Carolina.png",
+    "avg_rgb": [
+      0.11017954754610189,
+      0.20235263727227892,
+      0.3299758737210855
+    ],
+    "thumbnail": "thumbnails/South_Carolina.png"
+  },
+  {
+    "state": "Tennessee",
+    "filename": "Tennessee.png",
+    "avg_rgb": [
+      0.6761769209105272,
+      0.09458122265597918,
+      0.13767155490580898
+    ],
+    "thumbnail": "thumbnails/Tennessee.png"
+  },
+  {
+    "state": "New York",
+    "filename": "New_York.png",
+    "avg_rgb": [
+      0.1249910616407174,
+      0.2556399850289998,
+      0.445372151397029
+    ],
+    "thumbnail": "thumbnails/New_York.png"
+  },
+  {
+    "state": "North Carolina",
+    "filename": "North_Carolina.png",
+    "avg_rgb": [
+      0.6299922633082026,
+      0.4296655986245204,
+      0.5180196064984264
+    ],
+    "thumbnail": "thumbnails/North_Carolina.png"
+  },
+  {
+    "state": "Oregon",
+    "filename": "Oregon.png",
+    "avg_rgb": [
+      0.09752906389890724,
+      0.08277391746810879,
+      0.4512369791671065
+    ],
+    "thumbnail": "thumbnails/Oregon.png"
+  },
+  {
+    "state": "Indiana",
+    "filename": "Indiana.png",
+    "avg_rgb": [
+      0.05732934645307536,
+      0.09702749099333621,
+      0.34370773920571335
+    ],
+    "thumbnail": "thumbnails/Indiana.png"
+  },
+  {
+    "state": "Delaware",
+    "filename": "Delaware.png",
+    "avg_rgb": [
+      0.4784905500020623,
+      0.6124148447966493,
+      0.598062872094682
+    ],
+    "thumbnail": "thumbnails/Delaware.png"
+  },
+  {
+    "state": "Maryland",
+    "filename": "Maryland.png",
+    "avg_rgb": [
+      0.6331598717441741,
+      0.44986722921772015,
+      0.3017947185057198
+    ],
+    "thumbnail": "thumbnails/Maryland.png"
+  },
+  {
+    "state": "West Virginia",
+    "filename": "West_Virginia.png",
+    "avg_rgb": [
+      0.6678713033494931,
+      0.6961517916842491,
+      0.7236245208334708
+    ],
+    "thumbnail": "thumbnails/West_Virginia.png"
+  },
+  {
+    "state": "New Hampshire",
+    "filename": "New_Hampshire.png",
+    "avg_rgb": [
+      0.11840013309042376,
+      0.24316905282721898,
+      0.4994530431321727
+    ],
+    "thumbnail": "thumbnails/New_Hampshire.png"
+  },
+  {
+    "state": "Georgia",
+    "filename": "Georgia.png",
+    "avg_rgb": [
+      0.6053312054830579,
+      0.2700702861707927,
+      0.3704993812694187
+    ],
+    "thumbnail": "thumbnails/Georgia.png"
+  },
+  {
+    "state": "Idaho",
+    "filename": "Idaho.png",
+    "avg_rgb": [
+      0.08098551639914406,
+      0.253937062842116,
+      0.4301751761966183
+    ],
+    "thumbnail": "thumbnails/Idaho.png"
+  },
+  {
+    "state": "South Dakota",
+    "filename": "South_Dakota.png",
+    "avg_rgb": [
+      0.12084428974226329,
+      0.4991368910890522,
+      0.6368747786043284
+    ],
+    "thumbnail": "thumbnails/South_Dakota.png"
+  },
+  {
+    "state": "North Dakota",
+    "filename": "North_Dakota.png",
+    "avg_rgb": [
+      0.10083289104828169,
+      0.2662077105303177,
+      0.41936854890962316
+    ],
+    "thumbnail": "thumbnails/North_Dakota.png"
+  },
+  {
+    "state": "Texas",
+    "filename": "Texas.png",
+    "avg_rgb": [
+      0.6093468635167321,
+      0.41499394207733964,
+      0.5501038829438127
+    ],
+    "thumbnail": "thumbnails/Texas.png"
+  },
+  {
+    "state": "Alabama",
+    "filename": "Alabama.png",
+    "avg_rgb": [
+      0.8878030138901518,
+      0.6331856588489917,
+      0.6806530333171231
+    ],
+    "thumbnail": "thumbnails/Alabama.png"
+  },
+  {
+    "state": "Florida",
+    "filename": "Florida.png",
+    "avg_rgb": [
+      0.8879038073199137,
+      0.6173424300859695,
+      0.6071258643895189
+    ],
+    "thumbnail": "thumbnails/Florida.png"
+  },
+  {
+    "state": "Virginia",
+    "filename": "Virginia.png",
+    "avg_rgb": [
+      0.1946345049499626,
+      0.27381666406436406,
+      0.4755277581192968
+    ],
+    "thumbnail": "thumbnails/Virginia.png"
+  },
+  {
+    "state": "Massachusetts",
+    "filename": "Massachusetts.png",
+    "avg_rgb": [
+      0.9358485509168252,
+      0.9357407591757665,
+      0.9396844075823659
+    ],
+    "thumbnail": "thumbnails/Massachusetts.png"
+  },
+  {
+    "state": "Utah",
+    "filename": "Utah.png",
+    "avg_rgb": [
+      0.5335009338394403,
+      0.3751115340783161,
+      0.4073623406760198
+    ],
+    "thumbnail": "thumbnails/Utah.png"
+  },
+  {
+    "state": "Connecticut",
+    "filename": "Connecticut.png",
+    "avg_rgb": [
+      0.25916394651612645,
+      0.353598154818273,
+      0.5534962584180183
+    ],
+    "thumbnail": "thumbnails/Connecticut.png"
+  },
+  {
+    "state": "Alaska",
+    "filename": "Alaska.png",
+    "avg_rgb": [
+      0.06744446309021253,
+      0.13087834848657892,
+      0.2920697923416038
+    ],
+    "thumbnail": "thumbnails/Alaska.png"
+  },
+  {
+    "state": "Minnesota",
+    "filename": "Minnesota.png",
+    "avg_rgb": [
+      0.2022752403071911,
+      0.5252126644618065,
+      0.6721514276249477
+    ],
+    "thumbnail": "thumbnails/Minnesota.png"
+  },
+  {
+    "state": "Colorado",
+    "filename": "Colorado.png",
+    "avg_rgb": [
+      0.3856880284141839,
+      0.3582317492993334,
+      0.47655842924371905
+    ],
+    "thumbnail": "thumbnails/Colorado.png"
+  },
+  {
+    "state": "New Jersey",
+    "filename": "New_Jersey.png",
+    "avg_rgb": [
+      0.930990590483636,
+      0.7472039463815064,
+      0.4080444429157823
+    ],
+    "thumbnail": "thumbnails/New_Jersey.png"
+  },
+  {
+    "state": "Iowa",
+    "filename": "Iowa.png",
+    "avg_rgb": [
+      0.6578338038625215,
+      0.45387338997554033,
+      0.5668727682763562
+    ],
+    "thumbnail": "thumbnails/Iowa.png"
+  },
+  {
+    "state": "Michigan",
+    "filename": "Michigan.png",
+    "avg_rgb": [
+      0.10633051250787445,
+      0.22364778348709258,
+      0.474973786756816
+    ],
+    "thumbnail": "thumbnails/Michigan.png"
+  },
+  {
+    "state": "Pennsylvania",
+    "filename": "Pennsylvania.png",
+    "avg_rgb": [
+      0.10980393695013475,
+      0.22042183747547442,
+      0.34570230985128847
+    ],
+    "thumbnail": "thumbnails/Pennsylvania.png"
+  }
+]

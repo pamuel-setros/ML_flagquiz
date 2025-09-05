@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>US State Flags RGB Clustering</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .cluster-list { display: flex; gap: 40px; }
+        .cluster { border: 1px solid #ccc; padding: 10px; border-radius: 8px; }
+        .flag-thumb { width: 32px; height: 20px; object-fit: cover; margin-right: 8px; vertical-align: middle; }
+    </style>
+</head>
+<body>
+    <h1>US State Flags RGB Clustering</h1>
+    <div id="plot" style="width: 700px; height: 500px;"></div>
+    <h2>States by Cluster</h2>
+    <div class="cluster-list" id="clusters"></div>
+    <script src="cluster.js"></script>
+</body>
+</html>
